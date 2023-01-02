@@ -1,10 +1,12 @@
-<h1 align="center">Hi, I'm Binta Moncur</h1>
+<img src="https://raw.githubusercontent.com/bmoncur1/bmoncur1/main/untitled.png" alt="banner that says Binta Moncur - Designer and Developer Enthusiat">
+
+<h1 align="center">Hi 👋🏾 , I'm Binta Moncur</h1>
 <h3 align="center">A designer and developer enthusiat</h3>
 <img align="right" alt="Designing" width="400" src="https://www.triadwebservice.com/images/responsive-web-design.gif">
 
 - 🔭 I’m currently working on [PAACT Website Design & Dev](https://github.com/bmoncur1/Web101-Prework)
 
-- 👨‍💻 All of my projects are available at [to include link once portfolio live](to include link once portfolio live)
+- 👩🏾‍💻 All of my projects are available at [to include link once portfolio live](to include link once portfolio live)
 
 - 📫 How to reach me **binta.moncur@gmail.com**
 
