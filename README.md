@@ -2,10 +2,9 @@
 
 
 
-https://github.com/bmoncur1/bmoncur1/blob/e165b9ff3a7c16b2d732851a50905c481f2fc0ca/2.png
 <h1 align="center">Hi 👋🏾 , I'm Binta Moncur</h1>
 <h3 align="center">A designer and developer enthusiat</h3>
-<img align="right" alt="Designing" width="400" src="https://www.triadwebservice.com/images/responsive-web-design.gif">
+<!-- <img align="right" alt="Designing" width="400" src="https://www.triadwebservice.com/images/responsive-web-design.gif"> -->
 
 - 🔭 I’m currently working on [PAACT Website Design & Dev](https://github.com/bmoncur1/Web101-Prework)
 
