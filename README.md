@@ -1,5 +1,7 @@
 <img src="https://raw.githubusercontent.com/bmoncur1/bmoncur1/main/untitled.png" alt="banner that says Binta Moncur - Designer and Developer Enthusiat">
 
+![image](https://user-images.githubusercontent.com/73797804/210678906-3255de5b-0bd2-476b-b449-e58f0d200b18.png)
+
 <h1 align="center">Hi 👋🏾 , I'm Binta Moncur</h1>
 <h3 align="center">A designer and developer enthusiat</h3>
 <img align="right" alt="Designing" width="400" src="https://www.triadwebservice.com/images/responsive-web-design.gif">
