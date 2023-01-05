@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/bmoncur1/bmoncur1/main/6.png" alt="banner that says Binta Moncur - Designer and Developer Enthusiat">
+<img src="https://raw.githubusercontent.com/bmoncur1/bmoncur1/main/1.png" alt="banner that says Binta Moncur - Designer and Developer Enthusiat">
 
 https://raw.githubusercontent.com/bmoncur1/bmoncur1/main/6.png
 https://raw.githubusercontent.com/bmoncur1/bmoncur1/main/8.png
