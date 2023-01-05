@@ -4,7 +4,7 @@
 <h3 align="center">A designer and developer enthusiat</h3>
 <!-- <img align="right" alt="Designing" width="400" src="https://www.triadwebservice.com/images/responsive-web-design.gif"> -->
 
-<h3 align="left">About</h3>
+<h3 align="left">About:</h3>
 - 🔭 I’m currently working on [PAACT Website Design & Dev](https://github.com/bmoncur1/Web101-Prework)
 
 - 👩🏾‍💻 All of my projects are available at [to include link once portfolio live](to include link once portfolio live)
