@@ -1,9 +1,5 @@
 <img src="https://raw.githubusercontent.com/bmoncur1/bmoncur1/main/White%20Minimalist%20Corporate%20Personal%20Profile%20LinkedIn%20Banner.png" alt="banner that says Binta Moncur - Designer and Developer Enthusiat">
 
-https://raw.githubusercontent.com/bmoncur1/bmoncur1/main/6.png
-https://raw.githubusercontent.com/bmoncur1/bmoncur1/main/8.png
-https://github.com/bmoncur1/bmoncur1/blob/e165b9ff3a7c16b2d732851a50905c481f2fc0ca/2.png
-https://raw.githubusercontent.com/bmoncur1/bmoncur1/main/5.png
 <h1 align="center">Hi 👋🏾 , I'm Binta Moncur</h1>
 <h3 align="center">A designer and developer enthusiat</h3>
 <!-- <img align="right" alt="Designing" width="400" src="https://www.triadwebservice.com/images/responsive-web-design.gif"> -->
