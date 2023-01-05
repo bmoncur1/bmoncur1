@@ -5,7 +5,7 @@
 <!-- <img align="right" alt="Designing" width="400" src="https://www.triadwebservice.com/images/responsive-web-design.gif"> -->
 
 <h1 align="left">Binta Moncur</h1>
-I'm Binta and I focus on Design and Development. I really enjoy the process of designing inclusive experiences for users. I also enjoy the process of trying to make designs come to life through development.
+Hi 👋🏾 , I'm Binta. I love learning about product design and development. I really enjoy the process of designing inclusive experiences for users. I also enjoy the process of trying to make designs come to life through development.
 
 <h2 align="left">Skills and Experience</h2>
 
