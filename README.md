@@ -20,11 +20,11 @@ Hi 👋🏾 , I'm Binta. I love learning about product design and development. I
 
 - 🔭 I’m currently working on [PAACT Website Design & Dev](https://github.com/bmoncur1/Web101-Prework)
 
-- 👩🏾‍💻 All of my projects are available at [to include link once portfolio live](to include link once portfolio live)
+- 👩🏾‍💻 All of my projects are available at https://www.bmoncur.com/
 
 - 📫 How to reach me **binta.moncur@gmail.com**
 
-- 📄 Know about my experiences [to include link once resume updated](to include link once resume updated)
+- 📄 Know about my experiences https://docs.google.com/document/d/1R0MmFtXKDLj_roUFR9Tguc-ewc2YqjxZWx-iWCxU5uc/edit
 
 <h2 align="left">Connect with me</h2>
 <p align="left">
