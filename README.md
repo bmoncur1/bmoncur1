@@ -22,7 +22,7 @@ Hi 👋🏾 , I'm Binta. I love learning about product design and development. I
 
 - 👩🏾‍💻 All of my projects are available at https://www.bmoncur.com/
 
-- 📫 How to reach me *binta.moncur@gmail.com*
+- 📫 How to reach me binta.moncur@gmail.com
 
 - 📄 Know about my experiences: [Resume](https://docs.google.com/document/d/1R0MmFtXKDLj_roUFR9Tguc-ewc2YqjxZWx-iWCxU5uc/edit?usp=sharing)
 
